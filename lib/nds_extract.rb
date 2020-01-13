@@ -24,7 +24,7 @@ def directors_totals(nds)
   index_for_director = 0
   while index < nds.length do
     director = nds[index_for_director]
-    result[gross_for_director]
+    result[director
   end
     
   nil
