@@ -24,6 +24,7 @@ binding.pry
   result = {}
   index = 0
   while index < nds.length do
+  end
     
   nil
 end
